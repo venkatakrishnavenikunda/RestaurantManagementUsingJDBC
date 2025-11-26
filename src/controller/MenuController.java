@@ -11,7 +11,7 @@ public class MenuController {
 
     public void start() {
         while (true) {
-            System.out.println("\n-- Menu Management --");
+            System.out.println("\n--- Menu Management ---");
             System.out.println("1. Add Menu Item");
             System.out.println("2. View Menu");
             System.out.println("3. Back");
